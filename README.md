@@ -41,9 +41,3 @@ The `Sieve` class manages a list of prime numbers and includes the following met
   - `GeneratePrimes()`: Generates prime numbers using the Sieve of Eratosthenes algorithm.
 - **Operator Overloading**:
   - `operator <<`: Allows printing the list of primes directly using the `<<` operator.
-
-## How to Use
-
-1. Compile the program using the provided `makefile`:
-   ```bash
-   make
